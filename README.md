@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🛠️ I’m currently working on<br>A Java-based user and electric vehicle registration system with MySQL, using PreparedStatement and following good development practices.<br><br>🤝 I’m looking to collaborate on<br>Java backend projects, especially those focused on sustainability, electric mobility, or efficient data handling.<br><br>🙋‍♂️ I’m looking for help with<br>Improving Java code architecture, applying design patterns, and making my applications more scalable and maintainable.<br><br>🌱 I’m currently learning<br>Object-oriented programming in Java, advanced SQL, and the fundamentals of building RESTful APIs.<br><br>💬 Ask me about<br>My journey from IT infrastructure to software development, and my experience with PHP, HTML, and database management.<br><br>⚡ Fun fact<br>I once created a sustainable disinfectant using lemon peels, vinegar, and 70% alcohol!
 
 
